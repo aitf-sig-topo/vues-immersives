@@ -1,0 +1,3 @@
+[submodule "mapillary2pg"]
+	path = import_donnees_postgis
+	url = https://github.com/igeofr/mapillary2pg
