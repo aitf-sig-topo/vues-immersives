@@ -1,3 +1,6 @@
 [submodule "mapillary2pg"]
 	path = import_donnees_postgis
 	url = https://github.com/igeofr/mapillary2pg
+[submodule "mapillary_rm"]
+	path = traitement_ladybug
+	url = https://github.com/sigrennesmetropole/mapillary_rm
